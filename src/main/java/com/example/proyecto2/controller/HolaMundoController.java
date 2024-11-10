@@ -12,6 +12,6 @@ public class HolaMundoController {
 
     @GetMapping("/")
     public String home() {
-        return "Welcome to the API by Kenya Luna";
+        return "Welcome to Distibuida by Kenya Luna";
     }
 }
